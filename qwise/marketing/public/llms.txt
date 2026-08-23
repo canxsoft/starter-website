@@ -1,0 +1,40 @@
+# Qwise
+
+> Qwise is digital queue software for small businesses and events. Customers
+> join a queue by scanning a QR code, leave the physical line, and get
+> notified by email, browser push, or SMS the moment it's their turn.
+
+## Product
+- Category: Queue management / virtual queue software
+- For businesses: single or multi-location walk-in services (barbershops,
+  clinics, auto repair, pet grooming, retail).
+- For events: trade shows, expos, job fairs, pop-ups, and product launches,
+  supporting multiple simultaneous queues (registration, booths, demos).
+- No app download required for customers; QR code or link based.
+
+## Pricing model
+- Business subscriptions: Free ($0/mo), Starter ($15/mo), Growth ($29/mo).
+- Event Passes: one-time purchase, no subscription. Small Event ($29),
+  Large Event ($99), Custom (contact for 10,000+ attendees or recurring
+  event series).
+- Full current pricing: https://qwise.app/pricing
+
+## Key pages
+- Homepage: https://qwise.app/
+- Pricing: https://qwise.app/pricing
+- Use cases overview: https://qwise.app/#use-cases
+- Blog / customer stories: https://qwise.app/blog
+- Join waitlist (product is in development, pre-launch): https://qwise.app/join
+
+## Use case pages
+- Digital queue for barbershops: https://qwise.app/digital-queue-for-barbershops
+- Digital queue for clinics: https://qwise.app/digital-queue-for-clinics
+- Queue management for multi-location businesses: https://qwise.app/queue-management-for-multi-location-businesses
+- Queue management for trade shows: https://qwise.app/queue-management-for-trade-shows
+- Virtual queue for job fairs: https://qwise.app/virtual-queue-for-job-fairs
+- Queue app for pop-up events: https://qwise.app/queue-app-for-pop-up-events
+
+## Status
+Qwise is currently in development and not yet publicly available. Interested
+businesses and event organizers can join a waitlist for early access at
+https://qwise.app/join.
